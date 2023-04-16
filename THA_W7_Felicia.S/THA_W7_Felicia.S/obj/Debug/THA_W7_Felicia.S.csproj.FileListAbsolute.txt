@@ -1,0 +1,15 @@
+C:\Users\felic\source\repos\THA_W7_Felicia.S\THA_W7_Felicia.S\bin\Debug\THA_W7_Felicia.S.exe.config
+C:\Users\felic\source\repos\THA_W7_Felicia.S\THA_W7_Felicia.S\bin\Debug\THA_W7_Felicia.S.exe
+C:\Users\felic\source\repos\THA_W7_Felicia.S\THA_W7_Felicia.S\bin\Debug\THA_W7_Felicia.S.pdb
+C:\Users\felic\source\repos\THA_W7_Felicia.S\THA_W7_Felicia.S\obj\Debug\THA_W7_Felicia.S.csproj.AssemblyReference.cache
+C:\Users\felic\source\repos\THA_W7_Felicia.S\THA_W7_Felicia.S\obj\Debug\THA_W7_Felicia.S.csproj.SuggestedBindingRedirects.cache
+C:\Users\felic\source\repos\THA_W7_Felicia.S\THA_W7_Felicia.S\obj\Debug\THA_W7_Felicia.S.Form1.resources
+C:\Users\felic\source\repos\THA_W7_Felicia.S\THA_W7_Felicia.S\obj\Debug\THA_W7_Felicia.S.Form2.resources
+C:\Users\felic\source\repos\THA_W7_Felicia.S\THA_W7_Felicia.S\obj\Debug\THA_W7_Felicia.S.Properties.Resources.resources
+C:\Users\felic\source\repos\THA_W7_Felicia.S\THA_W7_Felicia.S\obj\Debug\THA_W7_Felicia.S.csproj.GenerateResource.cache
+C:\Users\felic\source\repos\THA_W7_Felicia.S\THA_W7_Felicia.S\obj\Debug\THA_W7_Felicia.S.csproj.CoreCompileInputs.cache
+C:\Users\felic\source\repos\THA_W7_Felicia.S\THA_W7_Felicia.S\obj\Debug\THA_W7_Felicia.S.exe
+C:\Users\felic\source\repos\THA_W7_Felicia.S\THA_W7_Felicia.S\obj\Debug\THA_W7_Felicia.S.pdb
+C:\Users\felic\source\repos\THA_W7_Felicia.S\THA_W7_Felicia.S\obj\Debug\THA_W7_Felicia.S.Book.resources
+C:\Users\felic\source\repos\THA_W7_Felicia.S\THA_W7_Felicia.S\obj\Debug\THA_W7_Felicia.S.Film.resources
+C:\Users\felic\source\repos\THA_W7_Felicia.S\THA_W7_Felicia.S\obj\Debug\THA_W7_Felicia.S.Seat.resources
